@@ -11,6 +11,10 @@ void led()
 {
 	
 }
+void beep()
+{
+	
+}
 int main(void)
 { 
 	Stm32_Clock_Init(336,8,2,7);//…Ë÷√ ±÷”,168Mhz
